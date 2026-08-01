@@ -1,0 +1,37 @@
+[
+    {
+        "id": 2,
+        "hour": 18,
+        "minute": 45,
+        "repeat": false,
+        "enabled": true
+    },
+    {
+        "id": 3,
+        "hour": 7,
+        "minute": 30,
+        "repeat": true,
+        "enabled": true
+    },
+    {
+        "id": 4,
+        "hour": 7,
+        "minute": 30,
+        "repeat": true,
+        "enabled": true
+    },
+    {
+        "id": 5,
+        "hour": 7,
+        "minute": 30,
+        "repeat": true,
+        "enabled": true
+    },
+    {
+        "id": 6,
+        "hour": 0,
+        "minute": 25,
+        "repeat": false,
+        "enabled": false
+    }
+]
